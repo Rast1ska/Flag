@@ -1,5 +1,4 @@
 # Flag
-Day 23
 
 https://www.hackingwithswift.com/guide/2/3/challenge
 
